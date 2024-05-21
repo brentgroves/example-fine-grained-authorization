@@ -383,3 +383,7 @@ curl -H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjI2ODE0MjIxMzE5ODgyM
 
 
 ```
+
+## Next
+
+<https://zitadel.com/docs/examples/secure-api/go>
