@@ -71,7 +71,7 @@ The Application Logic
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*neL7L1iYFPpu7C0d)
 
-# JSON Web Key Sets
+## JSON Web Key Sets
 
 The JSON Web Key Set (JWKS) is a set of keys containing the public keys used to verify any JSON Web Token (JWT) issued by the Authorization Server and signed using the RS256 signing algorithm.
 
@@ -238,7 +238,7 @@ You can also add a few more service users with different roles and experience_le
 
 ![](https://github.com/zitadel/example-fine-grained-authorization/raw/main/screenshots/27%20-%20Action.png)
 
-2. In the Create an Action section, give the action the same name as the function name, i.e., assignRoleAndExperienceClaims. In the script field, copy/paste the code in **[assignRoleAndExperienceClaims.js](https://github.com/zitadel/example-fine-grained-authorization/blob/main/zitadel_actions/assignRoleAndExperienceClaims.js). Click Add.
+2. In the Create an Action section, give the action the same name as the function name, i.e., assignRoleAndExperienceClaims. In the script field, copy/paste the code in **[assignRoleAndExperienceClaims.js](https://github.com/zitadel/example-fine-grained-authorization/blob/main/zitadel_actions/assignRoleAndExperienceClaims.js)**. Click Add.
 
 ![](https://github.com/zitadel/example-fine-grained-authorization/raw/main/screenshots/28%20-%20Action.png)
 
